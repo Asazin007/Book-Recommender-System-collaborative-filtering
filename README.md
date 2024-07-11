@@ -1,6 +1,6 @@
 ### README.md for Book Recommender System
 
-```markdown
+
 # Book Recommender System
 
 This project implements a Book Recommender System using collaborative filtering and content-based filtering techniques. The system suggests books to users based on their reading history and preferences. The project is implemented in Python and utilizes popular libraries such as Pandas, NumPy, and Scikit-learn.
@@ -41,7 +41,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
+
 
 ### Description for CV
 
